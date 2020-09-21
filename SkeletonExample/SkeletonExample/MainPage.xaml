@@ -9,5 +9,5 @@
             android:TabbedPage.ToolbarPlacement="Bottom"
             SelectedTabColor="{StaticResource RedColor}"
             UnselectedTabColor="{StaticResource DarkGrayColor}"
-            BarBackgroundColor="{StaticResource WhiteColor}">
+            BarBackgroundColor="{StaticResource DarkBlueColor}">
 </TabbedPage>
